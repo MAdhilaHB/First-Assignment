@@ -2,7 +2,7 @@
 
 
 
-
+Bioinformatics seems to be gaining increased atention and importance due to it's various capabilities. Learning it would add to a skillset which is very crucial in the research field.
 
 
 
@@ -10,3 +10,5 @@
 
 
 2. WHAT DO YOU EXPECT TO GAIN FROM THIS ASSOCIATION?
+
+My expectations are from CBA are that i will get adequate exposure to various tools and computational tecniques and basics of coding.
